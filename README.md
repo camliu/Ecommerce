@@ -25,6 +25,8 @@ A simple ecommerce site with admin dashboard, payment processing, account manage
 ## Build with
 
 - Next.js
+- SQLite
+- Prisma
 - Resend
 - Stripe
 - Zod
